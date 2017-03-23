@@ -1,0 +1,178 @@
+{
+  "allpages" : [{
+      "title" : "Brancher le boitier fibre",
+      "image" : "",
+      "title2" : "Première étape, vous allez brancher le Boîtier Fibre.",
+      "animation" : "",
+      "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B1_AvCommencer_boitierMural.png",
+    "title2" : "Choisissez un endroit proche de votre prise murale optique.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B1_AvCommencer_Telephone.png",
+    "title2" : "Gardez votre téléphone mobile près de vous, lors des branchements de la Livebox Play, vous recevrez un SMS pour activer votre accès Internet.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B4_Etap03_NePasPlier.png",
+    "title2" : "Lors des manipulations du câble optique, veillez à ne jamais le pincer ou le coincer sous un objet lourd (meuble, etc.).",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B5_Etap04_Detrompeur.png",
+    "title2" : "Le câble optique dispose d'un détrompeur pour effectuer les branchements sans erreur.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B4_Etap03_Bouchon.png",
+    "title2" : "Les bouchons protègent le câble optique de la poussière, une fois retirés, effectuer les branchements rapidement. ",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Avant de commencer",
+    "image" : "B1_AvCommencer_PictoOeil.png",
+    "title2" : "Les rayons utilisés pour la transmission de données par la Fibre Optique ne sont pas visibles à l’œil nu, mais peuvent être dangereux pour l’œil humain (risque d'aveuglement irréversible) : ne pas regarder directement les composants optiques.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 1",
+    "image" : "B2_Etap01_BoitierFibre.png",
+    "title2" : "Raccordez le bloc d'alimentation au Boîtier Fibre",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 1",
+    "image" : "B2_Etap01_Alim.png",
+    "title2" : "Puis brancher le à une prise électrique.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 2",
+    "image" : "B3_Etap02_BouchonPriseFibre.png",
+    "title2" : "Retirez le bouchon de la prise Fibre.",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 3",
+    "image" : "B4_Etap03_RetirezCapuchon.png",
+    "title2" : "Retirez le capuchon du câble optique",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 4",
+    "image" : "B5_Etap04_Zoom.png",
+    "title2" : "Positionnez le détrompeur vers le bas...",
+    "animation" : "",
+    "validation" : false
+  },{
+    "title" : "Etape 4",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "textValidation" : "Vous allez maintenant repérer votre type de prise murale",
+    "validation" : true
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice" : true,
+    "saufIfChoice" : 3,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "sautIfChoice" : 2,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "saufIfChoice" : 1,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "saufIfChoice" : 1,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "saufIfChoice" : 1,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "saufIfChoice" : 1,
+    "validation" : false
+  },{
+    "title" : "Boitier fibre 3 bis",
+    "image" : "B5_Etap04_CableOpt-PriseVerte.png",
+    "title2" : "...et branchez le câble optique à la prise verte ",
+    "animation" : "",
+    "choice": true,
+    "saufIfChoice" : 1,
+    "validation" : false
+  }],
+  "equipements" : [{
+    "title" : "Personnalisez votre installation.",
+    "validation" : "prenom"
+  },{
+    "title" : "Souhaitez vous installer cet équipement ?",
+    "image" : "I7_BoitierFibre_voyant.png",
+    "title2" : "Boitier Fibre",
+    "validation" : "boitier_fibre"
+  },{
+    "title" : "Souhaitez vous installer cet équipement ?",
+    "image" : "I3_LB-Play-FaceAvant.png",
+    "title2" : "Livebox Play",
+    "validation" : "livebox"
+  },{
+    "title" : "Souhaitez vous installer cet équipement ?",
+    "image" : "m70.png",
+    "title2" : "Téléphone M70",
+    "validation" : "m70"
+  },{
+    "title" : "Souhaitez vous installer cet équipement ?",
+    "image" : "decodeur.png",
+    "title2" : "Décodeur TV Livebox Play",
+    "validation" : "decodeur"
+  }],
+  "perso" : [{
+    "label" : "Mac",
+    "validation" :"mac"
+  },{
+    "label" : "Ordinateur Windows",
+    "validation" :"windows"
+  },{
+    "label" : "Iphone",
+    "validation" :"iphone"
+  },{
+    "label" : "Smartphone Android",
+    "validation" :"android"
+  },{
+    "label" : "Windows Phone",
+    "validation" :"wp"
+  }]
+}
